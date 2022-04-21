@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "MealsToGo",
+    "name": "Meals To Go",
     "slug": "MealsToGo",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/food.jpg",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/food.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/food.jpg",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/food.jpg"
     }
   }
 }
